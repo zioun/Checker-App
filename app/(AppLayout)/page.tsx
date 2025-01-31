@@ -7,7 +7,9 @@ const page = () => {
     return (
         <div>
             <Header></Header>
-            <HomePage></HomePage>
+            <div>
+                <HomePage></HomePage>
+            </div>
             <Footer></Footer>
         </div>
     );
